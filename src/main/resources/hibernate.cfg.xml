@@ -13,5 +13,7 @@
         <!---->
         <mapping class="javagda21.model.Country"/>
         <mapping class="javagda21.model.Town"/>
+        <mapping class="javagda21.model.Hotel"/>
+        <mapping class="javagda21.model.Trip"/>
     </session-factory>
 </hibernate-configuration>
