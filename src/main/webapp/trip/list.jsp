@@ -9,10 +9,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Wycieczki</title>
 </head>
 <body>
-<h2>List krajów</h2>
+<h2>Wycieczki</h2>
 <jsp:include page="header.jsp"></jsp:include>
 <table>
     <tr>

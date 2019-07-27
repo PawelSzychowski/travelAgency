@@ -9,9 +9,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Szczegułu</title>
+    <title>Detalis</title>
 </head>
 <body>
+<h2>Detalis</h2>
 <jsp:include page="header.jsp"></jsp:include>
 <table>
     <tr>
